@@ -536,7 +536,7 @@ div.new1{
 h4.no{
     color: white;
     position: relative;
-    left: 44%;
+    text-align: center;
 }
 
 h4.skillname{
@@ -739,7 +739,7 @@ a.b{
     color:white;
     position: relative;
     top: 32%;
-    left:18%;
+    left:14%;
     text-align: center;
 }
 
